@@ -6,6 +6,8 @@ public class FirstP {
 		
 		
 		System.out.println("karma is bitch");
+		
+		System.out.println("karma is hot as well");
 	}
 
 }
